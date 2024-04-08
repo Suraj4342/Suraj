@@ -1,0 +1,14 @@
+body {background-color:cyan;}
+h1{color:Blue;}
+  button{width:100px;
+    height:34px;
+    color:blue;
+    background-color:yellow;
+    font-size:18px;}
+    p{font-size:20px;
+      font-weight:bold;
+      color:black;
+      font-style:italic;}
+  img{ width:50%;
+  height:50%;}
+  text{font-style:italic;}
